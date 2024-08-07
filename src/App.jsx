@@ -1,5 +1,7 @@
 import { Button, Container, ContainerInputs, Form, Input, InputLabel, Title, TopBackground } from './styles.js'
 
+import UserImage from ''
+
 function Home() {
   const myText = 'ASDASDUNAIUDNIAU'
 
